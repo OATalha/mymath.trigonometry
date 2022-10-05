@@ -20,7 +20,7 @@ def sine(x):
 
 
 def cosine(x):
-     '''Determine cosine of x
+    '''Determine cosine of x
 
     Args:
         x (float): input parameter x in radians
@@ -28,7 +28,7 @@ def cosine(x):
     Returns:
         float: cosine value of x
     '''
-    return math.cosine(x)
+    return math.cos(x)
 
 
 def inverse_sine(x):
@@ -54,4 +54,4 @@ def inverse_cosine(x):
     Returns:
         float: angle in radians
     '''
-    return math.asin(x)
+    return math.acos(x)
