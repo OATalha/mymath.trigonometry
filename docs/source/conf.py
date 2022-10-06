@@ -52,7 +52,7 @@ autosectionlabel_prefix_document = True
 todo_include_todos = True
 
 
-intersphinx_mappings = {
+intersphinx_mapping = {
         'maindocs': ('https://oatalha.github.io', None)
 }
 
