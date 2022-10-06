@@ -1,6 +1,6 @@
 .. _mm_arith_intro:
 
-Introduction to MyMath Arithmetics package
+Introduction to MyMath Trigonometry package
 ==========================================
 
 
