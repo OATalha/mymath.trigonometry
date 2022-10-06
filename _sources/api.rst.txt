@@ -1,7 +1,7 @@
 My Math API
 ===========
 
-
+Go To :external+maindocs:doc:`Main API Docs<apidocs>`
 
 .. rubric:: Now Lets do API Docs (autosummary)
 
