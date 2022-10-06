@@ -6,6 +6,7 @@
 Welcome to My Math's documentation!
 ===================================
 
+Go To :external+maindocs:doc:`Main Documentation <index>`
 
 .. toctree::
    :maxdepth: 2
