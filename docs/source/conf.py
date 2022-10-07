@@ -39,6 +39,20 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
+
+rst_prolog = '''
+ .. |logo| image:: http://oatalha.github.io/_static/One-Animation-Logo-Small.png
+             :alt: One Animation Logo
+             :target: https://oatalha.github.io/
+
+.. |repos| replace:: :doc:`REPOS<maindocs:repos>`
+.. |apidocs| replace:: :doc:`APIDOCS<maindocs:repos>`
+
+=========================== ============================ ================================
+|logo|                      .. centered :: |repos|       .. centered :: |apidocs|
+=========================== ============================ ================================
+'''
+
 autodoc_default_options = { 'members': True, 'undoc-members': True }
 autodoc_mock_imports = []
 
@@ -55,9 +69,14 @@ todo_include_todos = True
 intersphinx_mapping = {
         'maindocs': ('https://oatalha.github.io', None)
 }
+extlinks = {
+        'maindocs': ('https://oatalha.github.io/%s', '%s')
+        }
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+html_logo = 'https://oatalha.github.io/_static/One-Animation-Logo-Small.png'
+html_favicon = 'https://oatalha.github.io/_static/favicon.ico'

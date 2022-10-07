@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to My Math Trigonometry's documentation!
-===================================
+================================================
 
 Go To :external+maindocs:doc:`Main Documentation <repos>`
 
