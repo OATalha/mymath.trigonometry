@@ -12,4 +12,3 @@ Go To :external+maindocs:doc:`Main API Docs<apidocs>`
    :nosignatures:
 
    mymath.trigonometry
-

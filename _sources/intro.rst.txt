@@ -1,7 +1,7 @@
 .. _mm_arith_intro:
 
 Introduction to MyMath Trigonometry package
-==========================================
+============================================
 
 
 This is an intro for MyMath Arithmetics package. It is an awesome package.
