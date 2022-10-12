@@ -29,7 +29,7 @@ extensions = [
 ]
 
 affiliate_options = {
-    'canonical_url': 'https://oatalha.github.io/mymath.trigonometry'
+    'canonical_url': 'https://oatalha.github.io/mymath.trigonometry/'
 }
 
 templates_path = ['_templates']
