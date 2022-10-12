@@ -1,7 +1,11 @@
-mymath.trigonometry
+﻿mymath.trigonometry
 ===================
 
 .. automodule:: mymath.trigonometry
+
+   
+   
+   
 
    
    
@@ -25,3 +29,15 @@ mymath.trigonometry
    
    
    
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   mymath.trigonometry.cst
+   mymath.trigonometry.dist
+
