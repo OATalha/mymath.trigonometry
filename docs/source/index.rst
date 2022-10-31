@@ -13,7 +13,6 @@ Go To :external+maindocs:doc:`Main Documentation <repos>`
    :caption: Contents:
 
    intro
-   api
 
 
 Indices and tables
